@@ -1,0 +1,27 @@
+{
+  "name": "solarysystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazizbekDev/solary-system.git"
+  },
+  "keywords": [
+    "threejs",
+    "lazizbekdev"
+  ],
+  "author": "Lazizbek Tojiboyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LazizbekDev/solary-system/issues"
+  },
+  "homepage": "https://github.com/LazizbekDev/solary-system#readme",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.150.1"
+  }
+}
